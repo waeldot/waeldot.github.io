@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "YLdot Padomaic"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "YLdot"
-description              : "An amazing website."
+name                     : #"YLdot"
+description              : #"An amazing website."
 url                      : "http://waeldot.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "YLdot"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : #"1982"
+  location         : "Seoul"
+  email            : "eneffu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
